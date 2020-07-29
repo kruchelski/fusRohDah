@@ -1,9 +1,9 @@
-# Data Structures 2 - Activity 2
+# Data Structures 2 - Hash table - Key/Values studies
 
-## This README.MD is under construction :S
+## Activity for the Data Strucure II class of the Systems Analysis and Development course
 
-### Sorry...  
+### What is it
+The goal of this application is to get values of some keys using a hash table approach.
 
-- André Klingenfus Antunes
-- Cassiano Kruchelski Vidal
-- Julio do Lago Muller
+### Disclaimer
+This is an activity for learning purposes.
